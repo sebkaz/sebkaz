@@ -5,10 +5,10 @@
 #### For more info check my [private webpage](https://sebastianzajac.pl) and my SGH [teaching page](https://sebkaz-teaching.github.io)
 
 
-- 🔭 I’m currently working on Quantum Machine Learning for Time Series, and Classification problems 
+- 🔭 I’m currently working on Graph community and outliers detection, Quantum Machine Learning for Time Series 
 - 🌱 I’m currently learning a Quatnum Machine Learning and RealTime processing in Apache Spark and Flink
 - 👯 I’m looking to collaborate on Quantum Machine Learning 
-- 💬 Ask me about ...
+- 💬 Ask me about everything
 - 📫 How to reach me: seba [at] sebastianzajac.pl, sebastian.zajac [at] sgh.waw.pl
 - ⚡ Fun fact: I play the accordion 
 
