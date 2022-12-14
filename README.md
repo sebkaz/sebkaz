@@ -1,16 +1,16 @@
 ### Hi there 👋 
 
-#### Sebastian Zajac earned his PhD in Theoretical Physics at the University of Silesia in Katowice. He is currently a theoretical physicist, an assistant professor at the Decision Analysis and Support Unit at SGH Warsaw School of Economics (Poland). The focus of his research are: outliers detection methods in grphs and time series, Quantum Computing and Quantum Machine Learning, real-time data analysis, mathematical physics. His latest [publications](https://scholar.google.pl/citations?user=Ttb9GbAAAAAJ&hl=pl) center around feature selection methods in predictive models, credit scoring models. At present he works also as a MLops in polish bank. 
+#### Sebastian Zajac earned his PhD in Theoretical Physics at the University of Silesia in Katowice. He is currently a theoretical physicist, an assistant professor at the Decision Analysis and Support Unit at SGH Warsaw School of Economics (Poland). The focus of his research are: outliers detection methods in grphs and time series, Quantum Computing and Quantum Machine Learning, real-time data analysis, mathematical physics. His latest [publications](https://scholar.google.pl/citations?user=Ttb9GbAAAAAJ&hl=pl) center around feature selection methods in predictive models and credit scoring models. At present he works also as a MLops in polish bank. 
 ---
 #### For more info check my [private webpage](https://sebastianzajac.pl) and my SGH [teaching page](https://sebkaz-teaching.github.io)
 
 
-- 🔭 I’m currently working on Graph community and outliers detection, Quantum Machine Learning for Time Series 
-- 🌱 I’m currently learning a Quatnum Machine Learning and RealTime processing in Apache Spark and Flink
+- 🔭 I’m currently working on Complex Networks community and outlier detection, Quantum Machine Learning for Time Series 
+- 🌱 I’m currently learning a Quantum Computing, Quantum Machine Learning and RealTime processing with Apache Spark, MLops methodology
 - 👯 I’m looking to collaborate on Quantum Machine Learning 
 - 💬 Ask me about everything
-- 📫 How to reach me: seba [at] sebastianzajac.pl, sebastian.zajac [at] sgh.waw.pl
-- ⚡ Fun fact: I play the accordion 
+- 📫 How to reach me: sebastian.zajac [at] sgh.waw.pl
+- ⚡ Fun fact: I play accordion 
 
 ### Connect with me
 
