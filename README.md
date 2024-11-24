@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Quantum+Physicist;Quantum+Engineering+and+Programmer;+Machine+Learning+Engineering+&center=true&width=1300&height=50" alt="Typing animation showing my roles and certifications"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Quantum+Physicist;Quantum+Programmer;&center=true&width=1300&height=50" alt="Typing animation showing my roles and certifications"/>
 </p>
 
 ## 😄 About Me:
