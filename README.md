@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello, I'm Sebastian</h1>
-<h3 align="center"> The Decision Analysis and Support Unit at SGH Warsaw School of Economics <\h3>
+<h3 align="center"> The Decision Analysis and Support Unit at SGH Warsaw School of Economics </h3>
 
 #### About Me:
 
