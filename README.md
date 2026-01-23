@@ -1,14 +1,13 @@
-## 😄 About Me:
 
-- Hello, I'm a theoretical physicist and an assistant professor at the Decision Analysis and Support Unit at SGH Warsaw School of Economics (Poland).
-- I am a researcher with a keen focus on the intersection of cutting-edge technologies and practical business applications.
-My primary research areas encompass Quantum Machine Learning and Quantum Computing on NISQ devices, which reflect my dedication to exploring the potential of quantum computing in solving complex problems. 
-A significant aspect of my work involves the fusion of quantum and classical optimisation techniques to enhance business processes.
+<h1 align="center">Hello, I'm Sebastian</h1>
+<h3 align="center"> The Decision Analysis and Support Unit at SGH Warsaw School of Economics <\h3>
 
-- My recent contributions to the academic landscape include publications that demonstrate my expertise in and Quantum Spectral Data Analysis, Quantum representation of graphs, Data Analysis, Machine Learning and Deep Learning. 
-- Specifically, I have delved into the challenging domains of complex networks and time series data, where I've developed novel methodologies for identifying outliers, ultimately contributing to a deeper understanding of these intricate data structures.
+#### About Me:
 
-Overall, my research showcases a commitment to pushing the boundaries of technology while addressing real-world challenges and making strides in both the quantum and data analytics domains.
+- I'm a theoretical physicist.
+- My main programming labguages are **Python** and **Julia**.
+- I am a researcher dedicated to the intersection of cutting-edge quantum technologies and practical business applications. My primary focus lies in Quantum Data Science, where I explore the potential of Quantum Machine Learning (QML) and NISQ-era devices to transform financial modeling and business decision-making.
+- Business Data Science & MLOps: A proven track record in the industry, spanning from deep analytical insights to the deployment and management of machine learning pipelines (MLOps).
 
 ---
 ### For more info check my [private webpage](https://sebastianzajac.pl) and my SGH [teaching page](https://sebkaz-teaching.github.io)
