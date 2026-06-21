@@ -1,16 +1,15 @@
 
 <h1 align="center">Hello, I'm Sebastian</h1>
-<h3 align="center"> The Decision Analysis and Support Unit at SGH Warsaw School of Economics </h3>
+<h3 align="center">  Military University of Technology </h3>
 
-#### About Me:
+### Hi there! 👋
 
-- I'm a theoretical physicist.
-- My main programming labguages are **Python** and **Julia**.
-- I am a researcher dedicated to the intersection of cutting-edge quantum technologies and practical business applications. My primary focus lies in Quantum Data Science, where I explore the potential of Quantum Machine Learning (QML) and NISQ-era devices to transform financial modeling and business decision-making.
-- Business Data Science & MLOps: A proven track record in the industry, spanning from deep analytical insights to the deployment and management of machine learning pipelines (MLOps).
+I'm a **Theoretical Physicist** and **Data Scientist** bridging the gap between cutting-edge quantum technologies and practical business applications. 
 
----
-### For more info check my [private webpage](https://sebastianzajac.pl) and my SGH [teaching page](https://sebkaz-teaching.github.io)
+#### 🔬 What I do:
+- **Quantum Data Science:** Exploring the frontier of Quantum Machine Learning (QML) and NISQ-era devices to revolutionize financial modeling and decision-making.
+- **Business MLOps & Data Science:** Translating deep analytical insights into scalable, production-ready machine learning pipelines.
+- **Tech Stack:** Heavily focused on **Python** and **Julia**.
 
 
 - 🔭 I’m currently working on graphs community and outlier detection, Quantum Machine Learning for graphs and time series
